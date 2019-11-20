@@ -1,3 +1,5 @@
+#By kevin
+
 degrees = 150
 radians = ((degrees/180)*3.14)
 
